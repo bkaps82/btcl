@@ -11,7 +11,7 @@ $ btcl mtgoxUSD
 ```
 
 # Install
-Install via rubygems
+Install via rubygems<br>
 <b>Note: this will install the original author's (jawerty) code</b>
 ```
 $ gem install btcl
