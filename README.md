@@ -12,13 +12,14 @@ $ btcl mtgoxUSD
 
 # Install
 Install via rubygems
+<b>Note: this will install the original author's (jawerty) code</b>
 ```
 $ gem install btcl
 ```
 
 Install via Docker
 ```
-$ docker build -t btcl github.com/jawerty/btcl
+$ docker build -t btcl github.com/bkaps82/btcl
 $ docker run btcl
 ```
 
