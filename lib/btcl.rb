@@ -6,16 +6,16 @@ require "json"
 require 'text-table'
 
 $top = {
-	"BTC CHINA" => "btcnCNY", 
-	"Mt. Gox USA" => "mtgoxUSD", 
-	"BitStamp" => "bitstampUSD",
-	"btc-e" => "btceUSD",
-	"Mt.Gox EUROPE" => "mtgoxEUR",
-	"Mt.Gox JAPAN" => "mtgoxJPY",
-	"bitcoin.de" => "btcdeEUR",
-	"Bitcurex" => "bitcurexPLN",
-	"Canadian Virtual Exchange" => "virtexCAD",
-	"Mt.Gox UK" => "mtgoxGBP"
+	"BTC CHINA - CYN" => "btcnCNY", 
+	"Mt. Gox USA - USD" => "mtgoxUSD", 
+	"BitStamp - USD" => "bitstampUSD",
+	"btc-e - USD" => "btceUSD",
+	"Mt.Gox EUROPE - EUR" => "mtgoxEUR",
+	"Mt.Gox JAPAN - JPY" => "mtgoxJPY",
+	"bitcoin.de - EUR" => "btcdeEUR",
+	"Bitcurex = PLN" => "bitcurexPLN",
+	"Canadian Virtual Exchange - CAD" => "virtexCAD",
+	"Mt.Gox UK - GBP" => "mtgoxGBP"
 }
 
 table = Text::Table.new :horizontal_padding    => 1,
