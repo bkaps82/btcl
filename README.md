@@ -49,7 +49,7 @@ $ btcl mtgoxUSD -v
 ![Alt text](/public/3.png)
 
 # Contact
-If you would like to contact me for further information on the project, see the info below.
+If you would like to contact the original author for further information on the project, see the info below.
 
 Email: jawerty210@gmail.com
 
